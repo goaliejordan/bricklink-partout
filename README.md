@@ -1,0 +1,3 @@
+pip install requests requests_oauthlib
+export BL_CONSUMER_KEY=...  BL_CONSUMER_SECRET=...  BL_TOKEN_VALUE=...  BL_TOKEN_SECRET=...
+python bricklink_partout.py 75192
